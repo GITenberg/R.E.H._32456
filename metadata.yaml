@@ -1,0 +1,28 @@
+_repo: R.E.H._32456
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32456-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barlow, R. H. (Robert Hayward)
+    alias: Barlow, Robert Hayward
+    birthdate: 1918
+    deathdate: 1951
+    gutenberg_agent_id: '35857'
+    url: http://www.gutenberg.org/2009/agents/35857
+    wikipedia: http://en.wikipedia.org/wiki/R._H._Barlow
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32456'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Howard, Robert E. (Robert Ervin), 1906-1936 -- Poetry'
+title: R.E.H.
+url: http://www.gutenberg.org/ebooks/32456
